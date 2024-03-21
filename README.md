@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://bloodlineranks.com">
+    <img alt="LeMat logo" width="30%" src="https://github.com/acidtib/LeMat-app/blob/main/icons/icon.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a aria-label="Twitch Stream" href="https://www.twitch.tv/acidtib">
+    <img alt="" src="https://img.shields.io/twitch/status/acidtib?logo=twitch&logoColor=white"/>
+  </a>
+  <a aria-label="Discord" href="https://discord.gg/9KrBNvBH7a">
+    <img alt="Join our Discord for support and chat about our projects" src="https://img.shields.io/discord/1029839991091757056?logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 # LeMat
 
 LeMat is an experimental match tracker for the game Hunt: Showdown. It aims to provide players with a comprehensive tool to record, analyze, and improve their gameplay experience. Built with Electron, Vue.js, and Bootstrap, LeMat combines a sleek user interface with powerful tracking capabilities.
