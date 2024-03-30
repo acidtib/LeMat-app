@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bloodlineranks.com">
-    <img alt="LeMat logo" width="30%" src="https://github.com/acidtib/LeMat-app/blob/main/icons/icon.png" />
+    <img alt="LeMat logo" width="60%" src="https://github.com/acidtib/LeMat-app/blob/main/screenshots/lemat-home.PNG" />
   </a>
 </p>
 
